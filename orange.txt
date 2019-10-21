@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-I am an apple.
+Who is apple?
 =======
 I am an orange.
 >>>>>>> 2f14480dc2c20d7a6b76aa4f5324dd7890eb7140
